@@ -16,7 +16,7 @@ Dashboard to view season wise stats of teams in the big 5 league from 2015 to 20
 * Dylan Dias - @dylandias99 - https://github.com/dylandias99
 
 ## Screenshots
-### Introduction Graphs
+### Introduction 
 <img src="Images/front.png" alt="Front View">
 
 ### Various Plots
