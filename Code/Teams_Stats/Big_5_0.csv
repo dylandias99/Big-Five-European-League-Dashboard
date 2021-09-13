@@ -1,0 +1,99 @@
+﻿Rk,Squad,Country,LgRk,League_Status,MP,W,D,L,GF,GA,GD,Pts,Pts/G,Attendance,Top Team Scorer,Goalkeeper
+9,Leicester City,ENG,1,Stay,38,23,12,3,68,36,32,81,2,31998,Jamie Vardy - 24,Kasper Schmeichel
+11,Arsenal,ENG,2,Stay,38,20,11,7,65,36,29,71,2,59944,Olivier Giroud - 16,Petr Čech
+12,Tottenham,ENG,3,Stay,38,19,13,6,69,35,34,70,2,35776,Harry Kane - 25,Hugo Lloris
+15,Manchester City,ENG,4,Stay,38,19,9,10,71,41,30,66,2,54041,Sergio Agüero - 24,Joe Hart
+16,Manchester Utd,ENG,5,Stay,38,19,9,10,49,35,14,66,2,75286,Anthony Martial - 11,David de Gea
+21,Southampton,ENG,6,Stay,38,18,9,11,59,41,18,63,2,30751,Sadio Mané Graziano Pellè - 11,Fraser Forster
+23,West Ham,ENG,7,Stay,38,16,14,8,65,51,14,62,2,34910,Dimitri Payet Andy Carroll - 9,Adrián
+27,Liverpool,ENG,8,Stay,38,16,12,10,63,50,13,60,2,43910,Roberto Firmino - 10,Simon Mignolet
+39,Stoke City,ENG,9,Stay,38,14,9,15,41,55,-14,51,1,27534,Marko Arnautović - 11,Jack Butland
+40,Chelsea,ENG,10,Stay,38,12,14,12,59,53,6,50,1,41500,Diego Costa - 12,Thibaut Courtois
+52,Everton,ENG,11,Stay,38,11,14,13,59,55,4,47,1,38124,Romelu Lukaku - 18,Tim Howard
+53,Swansea City,ENG,12,Stay,38,12,11,15,42,52,-10,47,1,20711,André Ayew - 12,Łukasz Fabiański
+58,Watford,ENG,13,Stay,38,12,9,17,40,50,-10,45,1,20594,Odion Ighalo - 15,Heurelho Gomes
+66,West Brom,ENG,14,Stay,38,10,13,15,34,48,-14,43,1,24631,Salomón Rondón - 9,Boaz Myhill
+72,Crystal Palace,ENG,15,Stay,38,11,9,18,39,51,-12,42,1,24825,Yannick Bolasie Connor Wickham... - 5,Wayne Hennessey
+73,Bournemouth,ENG,16,Stay,38,11,9,18,45,67,-22,42,1,11189,Joshua King - 6,Artur Boruc
+80,Sunderland,ENG,17,Stay,38,9,12,17,48,62,-14,39,1,43071,Jermain Defoe - 15,Vito Mannone
+88,Newcastle Utd,ENG,18,Relegated,38,9,10,19,44,65,-21,37,1,49754,Georginio Wijnaldum - 11,Rob Elliot
+92,Norwich City,ENG,19,Relegated,38,9,7,22,39,67,-28,34,1,26972,Dieumerci Mbokani - 7,John Ruddy
+98,Aston Villa,ENG,20,Relegated,38,3,8,27,27,76,-49,17,0,33690,Jordan Ayew - 7,Brad Guzan
+4,Barcelona,ESP,1,Stay,38,29,4,5,112,29,83,91,2,79724,Luis Suárez - 40,Claudio Bravo
+5,Real Madrid,ESP,2,Stay,38,28,6,4,110,34,76,90,2,71280,Cristiano Ronaldo - 35,Keylor Navas
+6,Atlético Madrid,ESP,3,Stay,38,28,4,6,63,18,45,88,2,47113,Antoine Griezmann - 22,Jan Oblak
+20,Villarreal,ESP,4,Stay,38,18,10,10,44,35,9,64,2,17557,Cédric Bakambu - 12,Alphonse Areola
+24,Athletic Club,ESP,5,Stay,38,18,8,12,58,45,13,62,2,41945,Aritz Aduriz - 20,Gorka Iraizoz
+29,Celta Vigo,ESP,6,Stay,38,17,9,12,51,59,-8,60,2,18190,Iago Aspas - 14,Sergio Álvarez
+38,Sevilla,ESP,7,Stay,38,14,10,14,51,50,1,52,1,34142,Kévin Gameiro - 16,Sergio Rico
+50,Málaga,ESP,8,Stay,38,12,12,14,38,35,3,48,1,20980,Charles - 12,Carlos Kameni
+51,Real Sociedad,ESP,9,Stay,38,13,9,16,45,48,-3,48,1,20594,Imanol Agirretxe - 13,Gerónimo Rulli
+62,Betis,ESP,10,Stay,38,11,12,15,34,52,-18,45,1,38070,Rubén Castro - 19,Antonio Adán
+64,Las Palmas,ESP,11,Stay,38,12,8,18,45,53,-8,44,1,21304,Jonathan Viera - 10,Javi Varas
+65,Valencia,ESP,12,Stay,38,11,11,16,46,48,-2,44,1,37474,Paco Alcácer - 13,Jaume Doménech
+67,Espanyol,ESP,13,Stay,38,12,7,19,40,74,-34,43,1,20267,Felipe Caicedo - 8,Pau López
+68,Eibar,ESP,14,Stay,38,11,10,17,49,61,-12,43,1,5216,Borja Bastón - 18,Asier Riesgo
+75,La Coruña,ESP,15,Stay,38,8,18,12,45,61,-16,42,1,23797,Lucas Pérez - 17,Germán Lux
+84,Granada,ESP,16,Stay,38,10,9,19,46,69,-23,39,1,16414,Youssef El-Arabi - 16,Andrés Fernández
+85,Sporting Gijón,ESP,17,Stay,38,10,9,19,40,62,-22,39,1,23559,Antonio Sanabria - 11,Iván Cuéllar
+87,Rayo Vallecano,ESP,18,Relegated,38,9,11,18,52,73,-21,38,1,11606,Javi Guerra - 12,Juan Carlos
+91,Getafe,ESP,19,Relegated,38,9,9,20,37,67,-30,36,1,7425,Pablo Sarabia - 7,Vicente Guaita
+93,Levante,ESP,20,Relegated,38,8,8,22,37,70,-33,32,1,14698,Deyverson - 9,Diego Mariño
+2,Paris S-G,FRA,1,Stay,38,30,6,2,102,19,83,96,3,46160,Zlatan Ibrahimović - 38,Kevin Trapp
+17,Lyon,FRA,2,Stay,38,19,8,11,67,43,24,65,2,40296,Alexandre Lacazette - 21,Anthony Lopes
+18,Monaco,FRA,3,Stay,38,17,14,7,57,50,7,65,2,7838,Bernardo Silva - 7,Danijel Subašić
+22,Nice,FRA,4,Stay,38,18,9,11,58,41,17,63,2,19192,Hatem Ben Arfa - 17,Yoan Cardinale
+28,Lille,FRA,5,Stay,38,15,15,8,39,27,12,60,2,30268,Sofiane Boufal - 11,Vincent Enyeama
+30,Saint-Étienne,FRA,6,Stay,38,17,7,14,42,37,5,58,2,30328,Nolan Roux - 9,Stéphane Ruffier
+35,Caen,FRA,7,Stay,38,16,6,16,39,52,-13,54,1,17661,Andy Delort - 12,Rémy Vercoutre
+37,Rennes,FRA,8,Stay,38,13,13,12,52,54,-2,52,1,23180,Ousmane Dembélé - 12,Benoît Costil
+41,Bastia,FRA,10,Stay,38,14,8,16,36,42,-6,50,1,11563,Floyd Ayité - 8,Jean-Louis Leca
+42,Bordeaux,FRA,11,Stay,38,12,14,12,50,57,-7,50,1,25088,Cheick Diabaté - 10,Cédric Carrasso
+43,Angers,FRA,9,Stay,38,13,11,14,40,38,2,50,1,13500,Cheikh N'Doye - 9,Ludovic Butelle
+46,Montpellier,FRA,12,Stay,38,14,7,17,49,47,2,49,1,12839,Casimir Ninga Souleymane Camara - 7,Laurent Pionnier
+47,Marseille,FRA,13,Stay,38,10,18,10,48,42,6,48,1,42015,Michy Batshuayi - 17,Steve Mandanda
+48,Nantes,FRA,14,Stay,38,12,12,14,33,44,-11,48,1,25226,Emiliano Sala - 6,Rémy Riou
+54,Lorient,FRA,15,Stay,38,11,13,14,47,58,-11,46,1,11988,Benjamin Moukandjo - 13,Benjamin Lecomte
+63,Guingamp,FRA,16,Stay,38,11,11,16,47,56,-9,44,1,14804,Sloan Privat Yannis Salibur... - 7,Jonas Lössl
+78,Toulouse,FRA,17,Stay,38,9,13,16,45,55,-10,40,1,16306,Wissam Ben Yedder - 17,Alban Lafont
+81,Reims,FRA,18,Relegated,38,10,9,19,44,57,-13,39,1,13482,Nicolas de Préville - 6,Johny Placide
+89,Gazélec Ajaccio,FRA,19,Relegated,38,8,13,17,37,58,-21,37,1,3719,Mohamed Larbi - 8,Clément Maury
+97,Troyes,FRA,20,Relegated,38,3,9,26,28,83,-55,18,0,12472,Fabien Camus - 5,Matthieu Dreyer
+1,Bayern Munich,GER,1,Stay,34,28,4,2,80,17,63,88,3,75000,Robert Lewandowski - 30,Manuel Neuer
+7,Dortmund,GER,2,Stay,34,24,6,4,82,34,48,78,2,81178,Pierre-Emerick Aubameyang - 25,Roman Bürki
+13,Leverkusen,GER,3,Stay,34,18,6,10,56,40,16,60,2,29085,Javier Hernández - 17,Bernd Leno
+25,M'Gladbach,GER,4,Stay,34,17,4,13,67,50,17,55,2,51715,Raffael - 13,Yann Sommer
+31,Schalke 04,GER,5,Stay,34,15,7,12,51,49,2,52,2,61386,Klaas-Jan Huntelaar - 12,Ralf Fährmann
+33,Mainz 05,GER,6,Stay,34,14,8,12,46,42,4,50,1,31053,Yunus Mallı - 11,Loris Karius
+34,Hertha BSC,GER,7,Stay,34,14,8,12,42,42,0,50,1,49704,Salomon Kalou - 14,Rune Jarstein
+44,Wolfsburg,GER,8,Stay,34,12,9,13,47,49,-2,45,1,28945,André Schürrle - 9,Diego Benaglio
+49,Köln,GER,9,Stay,34,10,13,11,38,42,-4,43,1,48676,Anthony Modeste - 15,Timo Horn
+55,Hamburger SV,GER,10,Stay,34,11,8,15,40,46,-6,41,1,41246,Nicolai Müller - 9,René Adler
+59,Ingolstadt 04,GER,11,Stay,34,10,10,14,33,42,-9,40,1,14834,Moritz Hartmann - 12,Ramazan Özcan
+69,Augsburg,GER,12,Stay,34,9,11,14,42,52,-10,38,1,29017,Koo Ja-cheol - 8,Marwin Hitz
+70,Werder Bremen,GER,13,Stay,34,10,8,16,50,65,-15,38,1,40935,Claudio Pizarro - 14,Felix Wiedwald
+71,Darmstadt 98,GER,14,Stay,34,9,11,14,38,53,-15,38,1,16647,Sandro Wagner - 14,Christian Mathenia
+76,Hoffenheim,GER,15,Stay,34,9,10,15,39,54,-15,37,1,27615,Kevin Volland Mark Uth - 8,Oliver Baumann
+77,Eint Frankfurt,GER,16,Stay,34,9,9,16,34,52,-18,36,1,46676,Alexander Meier - 12,Lukáš Hrádecký
+90,Stuttgart,GER,17,Relegated,34,9,6,19,50,75,-25,33,1,51983,Daniel Didavi - 13,Przemysław Tytoń
+95,Hannover 96,GER,18,Relegated,34,7,4,23,31,62,-31,25,1,41246,Artur Sobiech - 7,Ron-Robert Zieler
+3,Juventus,ITA,1,Stay,38,29,4,5,75,20,55,91,2,38662,Paulo Dybala - 19,Gianluigi Buffon
+8,Napoli,ITA,2,Stay,38,25,7,6,80,32,48,82,2,38760,Gonzalo Higuaín - 36,Pepe Reina
+10,Roma,ITA,3,Stay,38,23,11,4,83,41,42,80,2,35182,Mohamed Salah - 14,Wojciech Szczęsny
+14,Inter,ITA,4,Stay,38,20,7,11,50,38,12,67,2,45538,Mauro Icardi - 16,Samir Handanović
+19,Fiorentina,ITA,5,Stay,38,18,10,10,60,42,18,64,2,28734,Josip Iličić - 13,Ciprian Tătărușanu
+26,Sassuolo,ITA,6,Stay,38,16,13,9,49,40,9,61,2,11437,Nicola Sansone Domenico Berardi... - 7,Andrea Consigli
+32,Milan,ITA,7,Stay,38,15,12,11,49,43,6,57,2,37861,Carlos Bacca - 18,Gianluigi Donnarumma
+36,Lazio,ITA,8,Stay,38,15,9,14,52,52,0,54,1,21025,Antonio Candreva - 10,Federico Marchetti
+45,Chievo,ITA,9,Stay,38,13,11,14,43,45,-2,50,1,11247,Alberto Paloschi - 8,Albano Bizzarri
+56,Empoli,ITA,10,Stay,38,12,10,16,40,49,-9,46,1,9510,Massimo Maccarone - 13,Łukasz Skorupski
+57,Genoa,ITA,11,Stay,38,13,7,18,45,48,-3,46,1,21359,Leonardo Pavoletti - 14,Mattia Perin
+60,Torino,ITA,12,Stay,38,12,9,17,52,55,-3,45,1,19392,Andrea Belotti - 12,Daniele Padelli
+61,Atalanta,ITA,13,Stay,38,11,12,15,41,47,-6,45,1,15945,Papu Gómez - 7,Marco Sportiello
+74,Bologna,ITA,14,Stay,38,11,9,18,33,45,-12,42,1,18899,Mattia Destro - 8,Antonio Mirante
+79,Sampdoria,ITA,15,Stay,38,10,10,18,48,61,-13,40,1,21974,Éder - 12,Emiliano Viviano
+82,Palermo,ITA,16,Stay,38,10,9,19,38,65,-27,39,1,17065,Alberto Gilardino - 10,Stefano Sorrentino
+83,Udinese,ITA,17,Stay,38,10,9,19,35,60,-25,39,1,16209,Cyril Théréau - 11,Orestis Karnezis
+86,Carpi,ITA,18,Relegated,38,9,11,18,37,57,-20,38,1,8968,Kevin Lasagna - 5,Vid Belec
+94,Frosinone,ITA,19,Relegated,38,8,7,23,35,76,-41,31,1,7288,Federico Dionisi Daniel Ciofani - 9,Nicola Leali
+96,Hellas Verona,ITA,20,Relegated,38,5,13,20,34,63,-29,28,1,18194,Luca Toni Giampaolo Pazzini - 6,Pierluigi Gollini

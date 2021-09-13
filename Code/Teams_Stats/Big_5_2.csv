@@ -1,0 +1,99 @@
+﻿Rk,Squad,Country,League_Status,LgRk,MP,W,D,L,GF,GA,GD,Pts,Pts/G,Attendance,Top Team Scorer,Goalkeeper
+1,Manchester City,ENG,Stay,1,38,32,4,2,106,27,79,100,2.63,"54,070",Sergio Agüero - 21,Ederson
+7,Manchester Utd,ENG,Stay,2,38,25,6,7,68,28,40,81,2.13,"74,976",Romelu Lukaku - 16,David de Gea
+11,Tottenham,ENG,Stay,3,38,23,8,7,74,36,38,77,2.03,"67,953",Harry Kane - 30,Hugo Lloris
+15,Liverpool,ENG,Stay,4,38,21,12,5,84,38,46,75,1.97,"53,049",Mohamed Salah - 32,"Loris Karius, Simon Mignolet"
+20,Chelsea,ENG,Stay,5,38,21,7,10,62,38,24,70,1.84,"41,282",Eden Hazard - 12,Thibaut Courtois
+22,Arsenal,ENG,Stay,6,38,19,6,13,74,51,23,63,1.66,"59,323",Alexandre Lacazette - 14,Petr Čech
+38,Burnley,ENG,Stay,7,38,14,12,12,36,39,-3,54,1.42,"20,688",Chris Wood - 10,Nick Pope
+47,Everton,ENG,Stay,8,38,13,10,15,44,58,-14,49,1.29,"38,797",Wayne Rooney - 10,Jordan Pickford
+53,Leicester City,ENG,Stay,9,38,12,11,15,56,60,-4,47,1.24,"31,583",Jamie Vardy - 20,Kasper Schmeichel
+60,Newcastle Utd,ENG,Stay,10,38,12,8,18,39,47,-8,44,1.16,"51,992",Ayoze Pérez - 8,Rob Elliot
+61,Crystal Palace,ENG,Stay,11,38,11,11,16,45,55,-10,44,1.16,"25,063",Luka Milivojević - 10,Wayne Hennessey
+62,Bournemouth,ENG,Stay,12,38,11,11,16,45,61,-16,44,1.16,"10,641","Callum Wilson, Joshua King - 8",Asmir Begović
+67,West Ham,ENG,Stay,13,38,10,12,16,48,68,-20,42,1.11,"56,885",Marko Arnautović - 11,"Joe Hart, Adrián"
+68,Watford,ENG,Stay,14,38,11,8,19,44,64,-20,41,1.08,"20,231",Abdoulaye Doucouré - 7,Heurelho Gomes
+73,Brighton,ENG,Stay,15,38,9,13,16,34,54,-20,40,1.05,"30,403",Glenn Murray - 12,Mathew Ryan
+82,Huddersfield,ENG,Stay,16,38,9,10,19,28,58,-30,37,0.97,"24,040",Steve Mounié - 7,Jonas Lössl
+85,Southampton,ENG,Stay,17,38,7,15,16,37,56,-19,36,0.95,"30,794",Charlie Austin - 7,Fraser Forster
+88,Swansea City,ENG,Relegated,18,38,8,9,21,28,56,-28,33,0.87,"20,623",Jordan Ayew - 7,Łukasz Fabiański
+89,Stoke City,ENG,Relegated,19,38,7,12,19,35,68,-33,33,0.87,"29,280",Xherdan Shaqiri - 8,Jack Butland
+91,West Brom,ENG,Relegated,20,38,6,13,19,31,56,-25,31,0.82,"24,520","Salomón Rondón, Jay Rodriguez - 7",Ben Foster
+5,Barcelona,ESP,Stay,1,38,28,9,1,99,29,70,93,2.45,"66,603",Lionel Messi - 34,Marc-André ter Stegen
+9,Atlético Madrid,ESP,Stay,2,38,23,10,5,58,22,36,79,2.08,"55,483",Antoine Griezmann - 19,Jan Oblak
+14,Real Madrid,ESP,Stay,3,38,22,10,6,94,44,50,76,2,"66,161",Cristiano Ronaldo - 26,Keylor Navas
+16,Valencia,ESP,Stay,4,38,22,7,9,65,38,27,73,1.92,"38,657",Rodrigo - 16,Neto
+26,Villarreal,ESP,Stay,5,38,18,7,13,57,50,7,61,1.61,"16,731",Carlos Bacca - 15,Sergio Asenjo
+28,Betis,ESP,Stay,6,38,18,6,14,60,61,-1,60,1.58,"46,711",Sergio León - 11,Antonio Adán
+31,Sevilla,ESP,Stay,7,38,17,7,14,49,58,-9,58,1.53,"33,045",Wissam Ben Yedder - 9,Sergio Rico
+36,Getafe,ESP,Stay,8,38,15,10,13,42,33,9,55,1.45,"10,318",Ángel Rodríguez - 13,Vicente Guaita
+45,Girona,ESP,Stay,10,38,14,9,15,50,59,-9,51,1.34,"10,330",Cristhian Stuani - 21,Yassine Bounou
+46,Eibar,ESP,Stay,9,38,14,9,15,44,50,-6,51,1.34,"5,338","Kike, Charles - 8",Marko Dmitrović
+48,Espanyol,ESP,Stay,11,38,12,13,13,36,42,-6,49,1.29,"17,768",Gerard Moreno - 16,Pau López
+49,Real Sociedad,ESP,Stay,12,38,14,7,17,66,59,7,49,1.29,"19,736",Willian José - 15,Gerónimo Rulli
+50,Celta Vigo,ESP,Stay,13,38,13,10,15,59,60,-1,49,1.29,"15,683",Iago Aspas - 22,Rubén Blanco
+56,Alavés,ESP,Stay,14,38,15,2,21,40,50,-10,47,1.24,"16,819",Munir El Haddadi - 10,Fernando Pacheco
+58,Levante,ESP,Stay,15,38,11,13,14,44,58,-14,46,1.21,"17,927",José Luis Morales - 10,Oier Olazábal
+65,Athletic Club,ESP,Stay,16,38,10,13,15,41,49,-8,43,1.13,"37,325",Raúl García - 10,Kepa Arrizabalaga
+66,Leganés,ESP,Stay,17,38,12,7,19,34,51,-17,43,1.13,"9,539",Gabriel - 5,Iván Cuéllar
+92,La Coruña,ESP,Relegated,18,38,6,11,21,38,76,-38,29,0.76,"20,612",Adrián López - 9,Rubén
+96,Las Palmas,ESP,Relegated,19,38,5,7,26,24,74,-50,22,0.58,"16,156",Jonathan Calleri - 9,Leandro Chichizola
+98,Málaga,ESP,Relegated,20,38,5,5,28,24,61,-37,20,0.53,"20,420",Diego Rolán - 5,Roberto
+4,Paris S-G,FRA,Stay,1,38,29,6,3,108,29,79,93,2.45,"46,929",Edinson Cavani - 28,Alphonse Areola
+8,Monaco,FRA,Stay,2,38,24,8,6,85,45,40,80,2.11,"9,243",Radamel Falcao - 18,Danijel Subašić
+10,Lyon,FRA,Stay,3,38,23,9,6,87,43,44,78,2.05,"46,005",Memphis Depay - 19,Anthony Lopes
+12,Marseille,FRA,Stay,4,38,22,11,5,80,47,33,77,2.03,"46,040",Florian Thauvin - 22,Steve Mandanda
+30,Rennes,FRA,Stay,5,38,16,10,12,50,44,6,58,1.53,"23,111",Benjamin Bourigeaud - 10,Tomáš Koubek
+34,Bordeaux,FRA,Stay,6,38,16,7,15,53,48,5,55,1.45,"26,470",Malcom - 12,Benoît Costil
+35,Saint-Étienne,FRA,Stay,7,38,15,10,13,47,50,-3,55,1.45,"28,142","Jonathan Bamba, Rémy Cabella... - 7",Stéphane Ruffier
+39,Nice,FRA,Stay,8,38,15,9,14,53,52,1,54,1.42,"22,876",Mario Balotelli - 18,Walter Benítez
+43,Nantes,FRA,Stay,9,38,14,10,14,36,41,-5,52,1.37,"24,559",Emiliano Sala - 12,Ciprian Tătărușanu
+44,Montpellier,FRA,Stay,10,38,11,18,9,36,33,3,51,1.34,"13,458",Giovanni Sio - 10,Benjamin Lecomte
+51,Dijon,FRA,Stay,11,38,13,9,16,55,73,-18,48,1.26,"12,228",Júlio Tavares - 12,Baptiste Reynet
+54,Guingamp,FRA,Stay,12,38,12,11,15,48,59,-11,47,1.24,"14,506",Jimmy Briand - 11,Karl-Johan Johnsson
+59,Amiens,FRA,Stay,13,38,12,9,17,37,42,-5,45,1.18,"9,644",Moussa Konaté - 13,Régis Gurtner
+69,Angers,FRA,Stay,14,38,9,14,15,42,52,-10,41,1.08,"11,062",Karl Toko Ekambi - 17,Ludovic Butelle
+78,Strasbourg,FRA,Stay,15,38,9,11,18,44,67,-23,38,1,"24,083",Stéphane Bahoken - 7,Bingourou Kamara
+79,Caen,FRA,Stay,16,38,10,8,20,27,52,-25,38,1,"17,188",Ivan Santini - 11,Rémy Vercoutre
+80,Lille,FRA,Stay,17,38,10,8,20,41,67,-26,38,1,"31,453",Nicolas Pépé - 13,Mike Maignan
+83,Toulouse,FRA,Stay,18,38,9,10,19,38,54,-16,37,0.97,"16,924",Max Gradel - 8,Alban Lafont
+90,Troyes,FRA,Relegated,19,38,9,6,23,32,59,-27,33,0.87,"12,196",Adama Niane - 8,Mamadou Samassa
+93,Metz,FRA,Relegated,20,38,6,8,24,34,76,-42,26,0.68,"14,839",Nolan Roux - 15,Eiji Kawashima
+3,Bayern Munich,GER,Stay,1,34,27,3,4,92,28,64,84,2.47,"75,000",Robert Lewandowski - 29,Sven Ulreich
+19,Schalke 04,GER,Stay,2,34,18,9,7,53,37,16,63,1.85,"61,197",Guido Burgstaller - 11,Ralf Fährmann
+23,Hoffenheim,GER,Stay,3,34,15,10,9,66,48,18,55,1.62,"28,716",Mark Uth - 14,Oliver Baumann
+24,Dortmund,GER,Stay,4,34,15,10,9,64,47,17,55,1.62,"79,496",Pierre-Emerick Aubameyang - 13,Roman Bürki
+25,Leverkusen,GER,Stay,5,34,15,10,9,58,44,14,55,1.62,"28,415",Kevin Volland - 14,Bernd Leno
+29,RB Leipzig,GER,Stay,6,34,15,8,11,57,53,4,53,1.56,"39,397",Timo Werner - 13,Péter Gulácsi
+32,Stuttgart,GER,Stay,7,34,15,6,13,36,36,0,51,1.5,"56,045",Mario Gómez - 8,Ron-Robert Zieler
+37,Eint Frankfurt,GER,Stay,8,34,14,7,13,45,45,0,49,1.44,"49,159",Sébastien Haller - 9,Lukáš Hrádecký
+42,M'Gladbach,GER,Stay,9,34,13,8,13,47,52,-5,47,1.38,"50,986",Thorgan Hazard - 10,Yann Sommer
+52,Hertha BSC,GER,Stay,10,34,10,13,11,43,46,-3,43,1.26,"45,319",Salomon Kalou - 12,Rune Jarstein
+55,Werder Bremen,GER,Stay,11,34,10,12,12,37,40,-3,42,1.24,"38,726",Max Kruse - 6,Jiří Pavlenka
+57,Augsburg,GER,Stay,12,34,10,11,13,43,46,-3,41,1.21,"28,238",Michael Gregoritsch - 13,Marwin Hitz
+63,Hannover 96,GER,Stay,13,34,10,9,15,44,54,-10,39,1.15,"42,706",Niclas Füllkrug - 14,Philipp Tschauner
+71,Mainz 05,GER,Stay,14,34,9,9,16,38,52,-14,36,1.06,"28,766",Yoshinori Mutō - 8,Robin Zentner
+72,Freiburg,GER,Stay,15,34,8,12,14,32,56,-24,36,1.06,"23,894",Nils Petersen - 15,Alexander Schwolow
+84,Wolfsburg,GER,Stay,16,34,6,15,13,36,48,-12,33,0.97,"25,712",Daniel Didavi - 9,Koen Casteels
+87,Hamburger SV,GER,Relegated,17,34,8,7,19,29,53,-24,31,0.91,"50,656",Lewis Holtby - 6,Christian Mathenia
+95,Köln,GER,Relegated,18,34,5,7,22,35,70,-35,22,0.65,"48,776","Leonardo Bittencourt, Simon Terodde - 5",Timo Horn
+2,Juventus,ITA,Stay,1,38,30,5,3,86,24,62,95,2.5,"39,316",Paulo Dybala - 22,Gianluigi Buffon
+6,Napoli,ITA,Stay,2,38,28,7,3,77,29,48,91,2.39,"43,050",Dries Mertens - 18,Pepe Reina
+13,Roma,ITA,Stay,3,38,23,8,7,61,28,33,77,2.03,"37,450",Edin Džeko - 16,Alisson
+17,Inter,ITA,Stay,4,38,20,12,6,66,30,36,72,1.89,"57,529",Mauro Icardi - 29,Samir Handanović
+18,Lazio,ITA,Stay,5,38,21,9,8,89,49,40,72,1.89,"30,990",Ciro Immobile - 29,Thomas Strakosha
+21,Milan,ITA,Stay,6,38,18,10,10,56,42,14,64,1.68,"52,690",Patrick Cutrone - 10,Gianluigi Donnarumma
+27,Atalanta,ITA,Stay,7,38,16,12,10,57,39,18,60,1.58,"17,921",Josip Iličić - 11,Etrit Berisha
+33,Fiorentina,ITA,Stay,8,38,16,9,13,54,46,8,57,1.5,"26,092",Giovanni Simeone - 14,Marco Sportiello
+40,Sampdoria,ITA,Stay,10,38,16,6,16,56,60,-4,54,1.42,"20,156",Fabio Quagliarella - 19,Emiliano Viviano
+41,Torino,ITA,Stay,9,38,13,15,10,54,46,8,54,1.42,"18,596",Iago Falque - 12,Salvatore Sirigu
+64,Sassuolo,ITA,Stay,11,38,11,10,17,29,59,-30,43,1.13,"11,237",Matteo Politano - 10,Andrea Consigli
+70,Genoa,ITA,Stay,12,38,11,8,19,33,43,-10,41,1.08,"20,941",Gianluca Lapadula - 6,Mattia Perin
+74,Chievo,ITA,Stay,13,38,10,10,18,36,59,-23,40,1.05,"12,540",Roberto Inglese - 12,Stefano Sorrentino
+75,Udinese,ITA,Stay,14,38,12,4,22,48,63,-15,40,1.05,"17,906",Kevin Lasagna - 12,Albano Bizzarri
+76,Bologna,ITA,Stay,15,38,11,6,21,40,52,-12,39,1.03,"20,903",Simone Verdi - 10,Antonio Mirante
+77,Cagliari,ITA,Stay,16,38,11,6,21,33,61,-28,39,1.03,"14,685",Leonardo Pavoletti - 11,Alessio Cragno
+81,SPAL,ITA,Stay,17,38,8,14,16,39,59,-20,38,1,"12,067",Mirco Antenucci - 11,Alfred Gomis
+86,Crotone,ITA,Relegated,18,38,9,8,21,40,66,-26,35,0.92,"10,581","Simeon Nwankwo, Marcello Trotta - 7",Alex Cordaz
+94,Hellas Verona,ITA,Relegated,19,38,7,4,27,30,78,-48,25,0.66,"17,333","Moise Kean, Giampaolo Pazzini - 4",Nícolas Andrade
+97,Benevento,ITA,Relegated,20,38,6,3,29,33,84,-51,21,0.55,"12,132",Cheick Diabaté - 8,Christian Puggioni
